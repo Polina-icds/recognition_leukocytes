@@ -86,10 +86,6 @@ Leukocyte classification is critical for hematological diagnostics. Three cell t
 
 ---
 
-## 📁 Repository structure
-
----
-
 ## 🚀 How to reproduce
 
 1. **Clone** this repository  
@@ -102,6 +98,6 @@ Leukocyte classification is critical for hematological diagnostics. Three cell t
 
 ## 📬 Contact
 
-**Polina Guseva** – [polinaguseva26@gmail.com] | [LinkedIn](https://linkedin.com/in/polina-guseva)
+**Polina Guseva** – [pguseva26@gmail.com] | [LinkedIn](https://linkedin.com/in/polina-guseva)
 
 **GitHub:** [Polina-icds/recognition_leukocytes](https://github.com/Polina-icds/recognition_leukocytes)
